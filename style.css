@@ -81,7 +81,7 @@ main {
         }
 
         &:hover {
-            border-radius: 2px solid var(--border-hover);
+            border: 2px solid var(--border-hover);
         }
 
         &:focus {
