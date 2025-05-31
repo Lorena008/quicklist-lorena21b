@@ -14,7 +14,6 @@ function addItem() {
 
     showItemsList()
 }
-
 function showItemsList () {
     const sectionList = document.querySelector(".list")
     sectionList.textContent = ""
